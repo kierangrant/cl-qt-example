@@ -12,3 +12,18 @@ Steps to build:
 To Run:
 
     ./cl-qt-example
+
+Or on Windows
+
+    mkdir build && cd build
+    /path/to/Qt/qmake.exe ../QtUI
+    make -j
+    cd ..
+    mkdir ouput && cd output
+    cp ../build/release/QtUI.dll .
+    cp ../cl-qt-example.exe .
+    /path/to/Qt/windeployqt.exe QtUI.dll
+
+Then to Run:
+
+    ./cl-qt-example.exe
