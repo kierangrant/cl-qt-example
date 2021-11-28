@@ -1,0 +1,11 @@
+*.core
+*~
+*.fasl
+*.FASL
+*.fas
+*.FAS
+cl-qt-example
+cl-qt-example.exe
+.directory
+build/
+*.so
