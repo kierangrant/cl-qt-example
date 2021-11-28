@@ -1,3 +1,4 @@
+//  Kieran Grant releases this code in the Public Domain
 #include <about-dialog.h>
 #include "ui_about-dialog.h"
 #include <qtui.h>

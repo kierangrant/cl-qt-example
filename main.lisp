@@ -1,6 +1,6 @@
-;; -*- Mode: Lisp; Syntax: COMMON-LISP; Base: 10; Package: COMMISSION-PAYMENT-TRACKER -*-
-;; © Copyright Kieran Grant 2021
-;; File: entrypoint.lisp
+;; -*- Mode: Lisp; Syntax: COMMON-LISP; Base: 10; Package: CL-QT-EXAMPLE -*-
+;; Kieran Grant releases this code in the Public Domain
+;; File: main.lisp
 ;; Description: Entrypoint for main program
 
 (in-package :cl-qt-example)

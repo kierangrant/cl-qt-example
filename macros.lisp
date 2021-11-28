@@ -1,5 +1,5 @@
-;; -*- Mode: Lisp; Syntax: COMMON-LISP; Base: 10; Package: COMMISSION-PAYMENT-TRACKER/UI -*-
-;; © Copyright Kieran Grant 2021
+;; -*- Mode: Lisp; Syntax: COMMON-LISP; Base: 10; Package: CL-QT-EXAMPLE -*-
+;; Kieran Grant releases this code in the Public Domain
 ;; File: macros.lisp
 ;; Description: Macros for QT Interface
 

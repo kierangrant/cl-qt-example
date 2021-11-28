@@ -1,3 +1,4 @@
+//  Kieran Grant releases this code in the Public Domain
 #ifndef QTUI_H
 #define QTUI_H
 

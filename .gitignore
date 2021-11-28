@@ -8,4 +8,5 @@ cl-qt-example
 cl-qt-example.exe
 .directory
 build/
+*.pro.user*
 *.so

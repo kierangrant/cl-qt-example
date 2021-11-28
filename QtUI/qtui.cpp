@@ -1,3 +1,4 @@
+//  Kieran Grant releases this code in the Public Domain
 #include <qtui.h>
 #include <QApplication>
 #include <mainwindow.h>

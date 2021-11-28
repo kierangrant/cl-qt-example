@@ -1,6 +1,6 @@
-;; -*- Mode: Lisp; Syntax: COMMON-LISP; Base: 10; Package: COMMISSION-PAYMENT-TRACKER/UI -*-
-;; © Copyright Kieran Grant 2021
-;; File: qt/core.lisp
+;; -*- Mode: Lisp; Syntax: COMMON-LISP; Base: 10; Package: CL-QT-EXAMPLE -*-
+;; Kieran Grant releases this code in the Public Domain
+;; File: ui.lisp
 ;; Description: Interface with C++ UI
 
 (in-package :cl-qt-example)

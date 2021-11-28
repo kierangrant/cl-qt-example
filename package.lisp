@@ -1,5 +1,5 @@
 ;; -*- Mode: Lisp; Syntax: COMMON-LISP; Base: 10 -*-
-;; © Copyright Kieran Grant 2021
+;; Kieran Grant releases this code in the Public Domain
 ;; File: package.lisp
 ;; Description: Core Package File
 

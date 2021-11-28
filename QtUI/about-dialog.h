@@ -1,3 +1,4 @@
+//  Kieran Grant releases this code in the Public Domain
 #ifndef ABOUTDIALOG_H
 #define ABOUTDIALOG_H
 

@@ -1,3 +1,4 @@
+//  Kieran Grant releases this code in the Public Domain
 #ifndef MAINWINDOW_H
 #define MAINWINDOW_H
 
