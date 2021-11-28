@@ -19,7 +19,7 @@ MainWindow::MainWindow(char* (*lisp_handler)(char *), QWidget *parent) :
     QMenu *helpMenu = new QMenu(tr("&Help"));
     // Add About
     QAction *about = new QAction(tr("&About"));
-    about->setStatusTip(tr("About Commission Payment Tracker"));
+    about->setStatusTip(tr("About"));
     connect(about, &QAction::triggered, this, &MainWindow::ShowAbout);
     helpMenu->addAction(about);
 
