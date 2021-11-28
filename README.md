@@ -2,12 +2,12 @@ Simple example to build a LISP Qt program.
 
 Steps to build:
 
+    ./build.sh
     mkdir build && cd build
     qmake ../QtUI
     make -j
     cd ..
     ln -s build/libQtUI.so
-    ./build.sh
 
 To Run:
 
@@ -15,6 +15,7 @@ To Run:
 
 Or on Windows
 
+    ./build.sh
     mkdir build && cd build
     /path/to/Qt/qmake.exe ../QtUI
     make -j
