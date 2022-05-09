@@ -33,7 +33,7 @@
     (setf (cdr (last args)) (cons (null-pointer) nil))
     (setf argv-array (foreign-array-alloc
 		      (coerce args 'vector) `(:array :string ,(length args))))
-    (sb-int:with-float-traps-masked (:divide-by-zero)
+    (sb-int:with-float-traps-masked (:divide-by-zero :invalid)
       (call-into-ui
        (convert-to-foreign
 	`(name "Qt++ Example Program"
