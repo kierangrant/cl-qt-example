@@ -5,7 +5,7 @@
 
 (defsystem "cl-qt-example"
   :author "Kieran Grant"
-  :version "1.0.0"
+  :version "1.0.1"
   :depends-on ("cffi")
   :license "Public Domain"
   :serial t
